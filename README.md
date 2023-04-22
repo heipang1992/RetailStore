@@ -1,5 +1,5 @@
 # Retail Store Management (C#)
-Building a C# system that fulfills sales, delivery, installation, product and administratation management.
+Building a C# system with Maria DB that prvoides sales, delivery, installation, product and administratation managements.
 
 Contributor: Chan Chun Wai, Lam Tin Yue, Ma Hei Pang, Mak Kai Dung
 # Login
