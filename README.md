@@ -1,5 +1,6 @@
 # Retail Store Management (C#)
 Building a C# system that fulfills sales, delivery, installation, product and administratation management.
+
 Contributor: Chan Chun Wai, Lam Tin Yue, Ma Hei Pang, Mak Kai Dung
 # Login
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/127038426/233794396-8538c41e-abac-4d68-a9c0-33b54e67ad8d.png">
