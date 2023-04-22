@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d92096c7b4f64e16ae79e61974037148" Name="Diagram1" ZoomLevel="72">
+<<<<<<< Updated upstream
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <EntityTypeShape EntityType="sdpModel.Category" Width="1.5" PointX="1.9820276787420865" PointY="24.657981809535055" />
+        <EntityTypeShape EntityType="sdpModel.Customer" Width="1.5" PointX="5.3920416559055635" PointY="27.463380587968686" />
+        <EntityTypeShape EntityType="sdpModel.DeliveryNote" Width="1.5" PointX="8.325754499214586" PointY="31.766452520976983" />
+        <EntityTypeShape EntityType="sdpModel.InstallationNote" Width="1.5" PointX="9.82444718006274" PointY="23.124027382174521" />
+        <EntityTypeShape EntityType="sdpModel.Product" Width="1.5" PointX="6.2300669281883474" PointY="17.179294668687181" />
+        <EntityTypeShape EntityType="sdpModel.PurchaseList" Width="1.5" PointX="5.0630102758589253" PointY="11.3965496324918" />
+        <EntityTypeShape EntityType="sdpModel.PurchaseOrder" Width="1.5" PointX="9.4992953303732417" PointY="17.14652950370057" />
+        <EntityTypeShape EntityType="sdpModel.RetailStore" Width="1.5" PointX="11.927102392505436" PointY="17.322738774736756" />
+        <EntityTypeShape EntityType="sdpModel.SalesOrderDefect" Width="1.5" PointX="8.9696663436338611" PointY="12.911170697263987" />
+        <EntityTypeShape EntityType="sdpModel.SalesOrderInfo" Width="1.5" PointX="2.2511524959705547" PointY="15.685678206237814" />
+        <EntityTypeShape EntityType="sdpModel.SalesOrderProduct" Width="1.5" PointX="7.3113286659639929" PointY="1.3817584074017397" />
+        <EntityTypeShape EntityType="sdpModel.Staff" Width="1.5" PointX="9.39800795419049" PointY="30.361143305134561" />
+        <EntityTypeShape EntityType="sdpModel.Supplier" Width="1.5" PointX="1.6731955230576898" PointY="12.7758229285366" />
+        <EntityTypeShape EntityType="sdpModel.Van" Width="1.5" PointX="5.4814128212078534" PointY="18.949800410750228" />
+        <AssociationConnector Association="sdpModel.Product_ibfk_2" />
+        <AssociationConnector Association="sdpModel.DeliveryNote_ibfk_1" />
+        <AssociationConnector Association="sdpModel.Product_ibfk_1" />
+        <AssociationConnector Association="sdpModel.SalesOrderProduct_ibfk_2" />
+        <AssociationConnector Association="sdpModel.SelasOrderDefect_fk2" />
+        <AssociationConnector Association="sdpModel.SelasOrderDefect_fk1" />
+        <AssociationConnector Association="sdpModel.SalesOrderProduct_ibfk_1" />
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+=======
+        
+        
+        
+        
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

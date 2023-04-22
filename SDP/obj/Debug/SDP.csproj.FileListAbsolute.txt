@@ -1,0 +1,648 @@
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SDP.exe.config
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SDP.exe
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\SDP.pdb
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Web.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\EnvDTE.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\stdole.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.xml
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Account.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Admin.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Login.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Products.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Receipt.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.supplier_page.resources
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.exe
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.pdb
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\RdlCompile.cache
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\peter\OneDrive\Pictures\附件\文件\GitHub\SDP_PJ\SDP\obj\Debug\SDP.OrderCreated.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SDP.exe.config
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SDP.exe
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\SDP.pdb
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\EntityFramework.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\MySql.Data.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\MySql.Web.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\EnvDTE.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\stdole.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\EntityFramework.xml
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Account.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Admin.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Login.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Products.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.Receipt.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.supplier_page.resources
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\RdlCompile.cache
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.exe
+C:\Users\peter\OneDrive\桌面\SDP_PJ\SDP_PJ\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SDP.exe.config
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SDP.exe
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\SDP.pdb
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\EntityFramework.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\MySql.Data.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\MySql.Web.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\EnvDTE.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\stdole.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\EntityFramework.xml
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.Account.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.Login.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.exe
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.DeliveryService.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.Products.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.ReOrderItem.resources
+C:\Users\Asher\Desktop\SDP_PJ\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Account.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.DeliveryService.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Login.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Products.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.ReOrderItem.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\RdlCompile.cache
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.exe
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SDP.exe.config
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SDP.exe
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\SDP.pdb
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\MySql.Web.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\EnvDTE.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\stdole.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.xml
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.Print.resources
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\Asher\Desktop\SDP_PJ - Copy\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.exe
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SDP.exe.config
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SDP.exe
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\SDP.pdb
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\MySql.Web.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\EnvDTE.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\stdole.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.xml
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Account.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.DeliveryService.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Login.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Print.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Products.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.ReOrderItem.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\RdlCompile.cache
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\Asher\Downloads\SDP_PJ - Copy\SDP\obj\Debug\SDP.SalesOrderView.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SDP.exe.config
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SDP.exe
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\SDP.pdb
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\EntityFramework.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\MySql.Data.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\MySql.Web.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\EnvDTE.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\stdole.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\EntityFramework.xml
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Account.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.CreateOrder.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.DeliveryService.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Login.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Print.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Products.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.ReOrderItem.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.SalesOrderView.resources
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\RdlCompile.cache
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.exe
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Downloads\SDP_PJ\SDP\obj\Debug\SDP.orderViwer.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SDP.exe.config
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SDP.exe
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\SDP.pdb
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.CF.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\MySql.Web.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\EnvDTE.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\stdole.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.xml
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Account.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Dashboard.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.DeliveryService.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Login.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.orderViwer.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Print.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Products.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.ReOrderItem.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SalesOrder.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SalesOrderView.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.GenerateResource.cache
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\RdlCompile.cache
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\RdlCompile.compiled
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.CoreCompileInputs.cache
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.csproj.CopyComplete
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.exe
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.pdb
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.InstallServices.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SupplierEdit.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SupplierManage.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.confirmDefect.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.SearchPurchaseForm.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.PurchaseListForm.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.StaticViewer.resources
+C:\Users\Asher\Documents\GitHub\SDP_PJ\SDP\obj\Debug\SDP.RetailStoreManage.resources
+C:\Users\mahei\OneDrive\desktop\IVE\Sem3\SDP\Retail Store Management System\SDP\obj\Debug\SDP.csprojAssemblyReference.cache
+C:\Users\mahei\OneDrive\desktop\IVE\Sem3\SDP\Retail Store Management System\SDP\obj\Debug\SDP.csproj.ResolveComReference.cache
+C:\Users\mahei\OneDrive\desktop\IVE\Sem3\SDP\Retail Store Management System\SDP\obj\Debug\SDP.exe
+C:\Users\mahei\OneDrive\desktop\IVE\Sem3\SDP\Retail Store Management System\SDP\obj\Debug\SDP.pdb

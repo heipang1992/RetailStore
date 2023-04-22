@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sdpModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="sdpEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="sdpModel.Category" />
+    <EntitySet Name="Customers" EntityType="sdpModel.Customer" />
+    <EntitySet Name="DeliveryNotes" EntityType="sdpModel.DeliveryNote" />
+    <EntitySet Name="InstallationNotes" EntityType="sdpModel.InstallationNote" />
+    <EntitySet Name="Products" EntityType="sdpModel.Product" />
+    <EntitySet Name="PurchaseLists" EntityType="sdpModel.PurchaseList" />
+    <EntitySet Name="PurchaseOrders" EntityType="sdpModel.PurchaseOrder" />
+    <EntitySet Name="RetailStores" EntityType="sdpModel.RetailStore" />
+    <EntitySet Name="SalesOrderDefects" EntityType="sdpModel.SalesOrderDefect" />
+    <EntitySet Name="SalesOrderInfoes" EntityType="sdpModel.SalesOrderInfo" />
+    <EntitySet Name="SalesOrderProducts" EntityType="sdpModel.SalesOrderProduct" />
+    <EntitySet Name="Staffs" EntityType="sdpModel.Staff" />
+    <EntitySet Name="Suppliers" EntityType="sdpModel.Supplier" />
+    <EntitySet Name="Vans" EntityType="sdpModel.Van" />
+    <AssociationSet Name="Product_ibfk_2" Association="sdpModel.Product_ibfk_2">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="DeliveryNote_ibfk_1" Association="sdpModel.DeliveryNote_ibfk_1">
+      <End Role="Van" EntitySet="Vans" />
+      <End Role="DeliveryNote" EntitySet="DeliveryNotes" />
+    </AssociationSet>
+    <AssociationSet Name="Product_ibfk_1" Association="sdpModel.Product_ibfk_1">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="SalesOrderProduct_ibfk_2" Association="sdpModel.SalesOrderProduct_ibfk_2">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="SalesOrderProduct" EntitySet="SalesOrderProducts" />
+    </AssociationSet>
+    <AssociationSet Name="SelasOrderDefect_fk2" Association="sdpModel.SelasOrderDefect_fk2">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="SalesOrderDefect" EntitySet="SalesOrderDefects" />
+    </AssociationSet>
+    <AssociationSet Name="SelasOrderDefect_fk1" Association="sdpModel.SelasOrderDefect_fk1">
+      <End Role="SalesOrderInfo" EntitySet="SalesOrderInfoes" />
+      <End Role="SalesOrderDefect" EntitySet="SalesOrderDefects" />
+    </AssociationSet>
+    <AssociationSet Name="SalesOrderProduct_ibfk_1" Association="sdpModel.SalesOrderProduct_ibfk_1">
+      <End Role="SalesOrderInfo" EntitySet="SalesOrderInfoes" />
+      <End Role="SalesOrderProduct" EntitySet="SalesOrderProducts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="categoryID" />
+    </Key>
+    <Property Name="categoryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="categoryName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="sdpModel.Product_ibfk_2" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="cus_id" />
+    </Key>
+    <Property Name="cus_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="order_no" Type="Int32" />
+    <Property Name="cus_name" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cus_address" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cus_phone" Type="Int32" />
+  </EntityType>
+  <EntityType Name="DeliveryNote">
+    <Key>
+      <PropertyRef Name="deliveryID" />
+    </Key>
+    <Property Name="deliveryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderNo" Type="Int32" />
+    <Property Name="staff_id" Type="Int32" />
+    <Property Name="staff_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="vehicleNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="deliverySession" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="isDelivered" Type="Boolean" Nullable="false" />
+    <Property Name="cus_name" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cus_address" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cus_phone" Type="Int32" />
+    <Property Name="deliveryDate2" Type="DateTime" />
+    <NavigationProperty Name="Van" Relationship="sdpModel.DeliveryNote_ibfk_1" FromRole="DeliveryNote" ToRole="Van" />
+  </EntityType>
+  <EntityType Name="InstallationNote">
+    <Key>
+      <PropertyRef Name="installationID" />
+    </Key>
+    <Property Name="installationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderNo" Type="Int32" />
+    <Property Name="staffID" Type="Int32" Nullable="false" />
+    <Property Name="installSession" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="isInstalled" Type="Boolean" />
+    <Property Name="installDate" Type="DateTime" />
+    <Property Name="cusPhone" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="productID" />
+    </Key>
+    <Property Name="productID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="supplierID" Type="Int32" Nullable="false" />
+    <Property Name="categoryID" Type="Int32" Nullable="false" />
+    <Property Name="productName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="model" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="price" Type="Double" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="active" Type="Boolean" Nullable="false" />
+    <Property Name="reorderLevel" Type="Int32" />
+    <Property Name="retailID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="sdpModel.Product_ibfk_2" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="Supplier" Relationship="sdpModel.Product_ibfk_1" FromRole="Product" ToRole="Supplier" />
+    <NavigationProperty Name="SalesOrderProducts" Relationship="sdpModel.SalesOrderProduct_ibfk_2" FromRole="Product" ToRole="SalesOrderProduct" />
+    <NavigationProperty Name="SalesOrderDefects" Relationship="sdpModel.SelasOrderDefect_fk2" FromRole="Product" ToRole="SalesOrderDefect" />
+  </EntityType>
+  <EntityType Name="PurchaseList">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="purchaseID" Type="Int32" Nullable="false" />
+    <Property Name="productID" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PurchaseOrder">
+    <Key>
+      <PropertyRef Name="purchaseID" />
+    </Key>
+    <Property Name="purchaseID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderDate" Type="DateTime" Nullable="false" />
+    <Property Name="total" Type="Double" Nullable="false" />
+    <Property Name="approval" Type="Boolean" Nullable="false" />
+    <Property Name="orderStatus" Type="Boolean" Nullable="false" />
+    <Property Name="orderChecked" Type="Boolean" Nullable="false" />
+    <Property Name="remark" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="isClaimed" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RetailStore">
+    <Key>
+      <PropertyRef Name="retailID" />
+    </Key>
+    <Property Name="retailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="location" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="address" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="phone" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+    <Property Name="isWareHouse" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SalesOrderDefect">
+    <Key>
+      <PropertyRef Name="defectID" />
+    </Key>
+    <Property Name="defectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderID" Type="Int32" Nullable="false" />
+    <Property Name="productID" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="isReturn" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="sdpModel.SelasOrderDefect_fk2" FromRole="SalesOrderDefect" ToRole="Product" />
+    <NavigationProperty Name="SalesOrderInfo" Relationship="sdpModel.SelasOrderDefect_fk1" FromRole="SalesOrderDefect" ToRole="SalesOrderInfo" />
+  </EntityType>
+  <EntityType Name="SalesOrderInfo">
+    <Key>
+      <PropertyRef Name="orderID" />
+    </Key>
+    <Property Name="orderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="customerNumber" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="deliveryID" Type="Int32" />
+    <Property Name="installationID" Type="Int32" />
+    <Property Name="staffID" Type="Int32" Nullable="false" />
+    <Property Name="price" Type="Double" Nullable="false" />
+    <Property Name="cast" Type="Double" Nullable="false" />
+    <Property Name="orderchange" Type="Double" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" />
+    <Property Name="orderstatus" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="remark" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SalesOrderDefects" Relationship="sdpModel.SelasOrderDefect_fk1" FromRole="SalesOrderInfo" ToRole="SalesOrderDefect" />
+    <NavigationProperty Name="SalesOrderProducts" Relationship="sdpModel.SalesOrderProduct_ibfk_1" FromRole="SalesOrderInfo" ToRole="SalesOrderProduct" />
+  </EntityType>
+  <EntityType Name="SalesOrderProduct">
+    <Key>
+      <PropertyRef Name="invisible" />
+    </Key>
+    <Property Name="invisible" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderID" Type="Int32" Nullable="false" />
+    <Property Name="productID" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="sdpModel.SalesOrderProduct_ibfk_2" FromRole="SalesOrderProduct" ToRole="Product" />
+    <NavigationProperty Name="SalesOrderInfo" Relationship="sdpModel.SalesOrderProduct_ibfk_1" FromRole="SalesOrderProduct" ToRole="SalesOrderInfo" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="staff_id" />
+    </Key>
+    <Property Name="staff_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="staff_password" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="staff_name" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="staff_email" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="staff_access" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="active" Type="Boolean" />
+    <Property Name="retailID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="supplierID" />
+    </Key>
+    <Property Name="supplierID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="supName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="supPhone" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="supAddress" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Name="productID" Type="Int32" />
+    <NavigationProperty Name="Products" Relationship="sdpModel.Product_ibfk_1" FromRole="Supplier" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Van">
+    <Key>
+      <PropertyRef Name="vehicleNo" />
+    </Key>
+    <Property Name="vehicleNo" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="staff_id" Type="Int32" />
+    <Property Name="insuranceDate" Type="DateTime" />
+    <Property Name="insuranceFee" Type="Double" />
+    <Property Name="oilMonthlyFee" Type="Double" />
+    <NavigationProperty Name="DeliveryNotes" Relationship="sdpModel.DeliveryNote_ibfk_1" FromRole="Van" ToRole="DeliveryNote" />
+  </EntityType>
+  <Association Name="Product_ibfk_2">
+    <End Type="sdpModel.Category" Role="Category" Multiplicity="1" />
+    <End Type="sdpModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="categoryID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="categoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DeliveryNote_ibfk_1">
+    <End Type="sdpModel.Van" Role="Van" Multiplicity="0..1" />
+    <End Type="sdpModel.DeliveryNote" Role="DeliveryNote" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Van">
+        <PropertyRef Name="vehicleNo" />
+      </Principal>
+      <Dependent Role="DeliveryNote">
+        <PropertyRef Name="vehicleNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Product_ibfk_1">
+    <End Type="sdpModel.Supplier" Role="Supplier" Multiplicity="1" />
+    <End Type="sdpModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="supplierID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="supplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SalesOrderProduct_ibfk_2">
+    <End Type="sdpModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="sdpModel.SalesOrderProduct" Role="SalesOrderProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="productID" />
+      </Principal>
+      <Dependent Role="SalesOrderProduct">
+        <PropertyRef Name="productID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SelasOrderDefect_fk2">
+    <End Type="sdpModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="sdpModel.SalesOrderDefect" Role="SalesOrderDefect" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="productID" />
+      </Principal>
+      <Dependent Role="SalesOrderDefect">
+        <PropertyRef Name="productID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SelasOrderDefect_fk1">
+    <End Type="sdpModel.SalesOrderInfo" Role="SalesOrderInfo" Multiplicity="1" />
+    <End Type="sdpModel.SalesOrderDefect" Role="SalesOrderDefect" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderInfo">
+        <PropertyRef Name="orderID" />
+      </Principal>
+      <Dependent Role="SalesOrderDefect">
+        <PropertyRef Name="orderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SalesOrderProduct_ibfk_1">
+    <End Type="sdpModel.SalesOrderInfo" Role="SalesOrderInfo" Multiplicity="1" />
+    <End Type="sdpModel.SalesOrderProduct" Role="SalesOrderProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesOrderInfo">
+        <PropertyRef Name="orderID" />
+      </Principal>
+      <Dependent Role="SalesOrderProduct">
+        <PropertyRef Name="orderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
